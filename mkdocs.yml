@@ -13,6 +13,7 @@ nav:
           - Orders: order.md
           - Reviews: reviews.md
           - Wishlist: wishlist.md
+          - Auth: auth.md
 
 # # Optionally, you can enable search
 # search:

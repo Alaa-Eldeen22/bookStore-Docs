@@ -11,3 +11,4 @@ Welcome to the TODO App API documentation. This API is created as a backend for 
 - [Orders Endpoints](order.md)
 - [Reviews Endpoints](reviews.md)
 - [Wishlist Endpoints](wishlist.md)
+- [Auth Endpoints](auth.md)
