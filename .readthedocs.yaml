@@ -5,10 +5,10 @@ mkdocs:
   configuration: mkdocs.yml
 
 # Specify the Python version
-python: "3.10"  # Use a string for the Python version
+python: "3.10"  # This line is fine
 
 # Build configuration
 build:
   os: ubuntu-22.04
   tools:
-    python: "3.10"  # Use a string for the Python version
+    python: 3.10  # Remove quotes around the Python version
