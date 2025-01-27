@@ -8,7 +8,7 @@ mkdocs:
 # python: "3.10"  # Use a string for the global Python version
 
 # # Build configuration
-build.tools:
+build:
   os: ubuntu-22.04
-#   tools:
+  tools:
 #     python: 3.10  # Use a string here as well
