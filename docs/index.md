@@ -6,9 +6,9 @@ Welcome to the TODO App API documentation. This API is created as a backend for 
 
 ## API's endpoints' detailed explanation: 
 
+- [Auth Endpoints](auth.md)
 - [Books Endpoints](books.md)
 - [Cart Endpoints](cart.md)
 - [Orders Endpoints](order.md)
 - [Reviews Endpoints](reviews.md)
 - [Wishlist Endpoints](wishlist.md)
-- [Auth Endpoints](auth.md)
