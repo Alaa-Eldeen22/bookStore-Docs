@@ -2,7 +2,7 @@ site_name: My API Documentation
 site_url: https://my-api-docs.readthedocs.io
 
 theme:
-  name: readthedocs
+  name: material
 
 nav:
   - Home: index.md
