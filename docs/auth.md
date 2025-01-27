@@ -71,7 +71,7 @@
 
 ### Response
 
-- **Success (201 Created)**
+- **Success (200 OK)**
 
 ```json
 {
