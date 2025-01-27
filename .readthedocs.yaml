@@ -6,10 +6,10 @@ mkdocs:
 
 # Specify the Python version
 python:
-  3.10  # Use only major and minor version (e.g., 3.10)
+  version: 3.10  # Use a dictionary with the `version` key
 
 # Build configuration
 build:
   os: ubuntu-22.04
   tools:
-    python: "3.10"  # Use only major and minor version (e.g., "3.10")
+    python: "3.10"  # Use a string for the Python version
