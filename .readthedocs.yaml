@@ -5,7 +5,7 @@ mkdocs:
   configuration: mkdocs.yml
 
 # Specify the Python version
-python: "3.10"  # Use a string for the global Python version
+python: 3.10  # Use a string for the global Python version
 
 # Build configuration
 build:
